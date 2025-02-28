@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+{% block body %}
+  This is body
+{% endblock body %}
+{% block content %}
+
+<div class="bg-dark text-white">
+  <!-- Carousel Section -->
+  <div class="container-fluid py-5">
+    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="2"></li>
+      </ol>
+    
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://wowslider.com/sliders/demo-93/data1/images/landscape.jpg" class="d-block w-100" style="height: 400px;" alt="Los Angeles">
+        </div>
+    
+        <div class="carousel-item">
+          <img src="https://wowslider.com/sliders/demo-93/data1/images/landscape.jpg" class="d-block w-100" style="height: 400px;" alt="Chicago">
+        </div>
+    
+        <div class="carousel-item">
+          <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(31).webp" class="d-block w-100" style="height: 400px;" alt="New York">
+        </div>
+      </div>
+    
+      <!-- Left and right controls -->
+      <a class="carousel-control-prev" href="#myCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#myCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- Cards Section -->
+  <div class="container my-5">
+    <h2 class="text-center text-white mb-4">Our Featured Cards</h2>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      {% for i in card_range %}
+      <div class="col">
+        <div class="card h-100">
+          <img src="https://via.placeholder.com/150" class="card-img-top" alt="Card Image">
+          <div class="card-body">
+            <h5 class="card-title">Card Title {{ i }}</h5>
+            <p class="card-text">This is a longer card description. It includes content that may span multiple lines.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">Last updated 3 mins ago</small>
+          </div>
+        </div>
+      </div>
+            
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{% endblock %}

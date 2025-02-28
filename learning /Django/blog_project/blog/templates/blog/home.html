@@ -1,0 +1,15 @@
+<h1>Blog Posts</h1>
+{% if user.is_authenticated %}
+    <p>Welcome, {{ user.username }}! <a href="/create/">Create Blog</a></p>
+{% else %}
+    <p><a href="/accounts/login/">Login</a> or <a href="/register/">Register</a> to create a blog.</p>
+{% endif %}
+<ul>
+    {% for blog in blogs %}
+        <li>
+            <h2>{{ blog.title }}</h2>
+            <p>{{ blog.content }}</p>
+            <small>By {{ blog.author }}</small>
+        </li>
+    {% endfor %}
+</ul>

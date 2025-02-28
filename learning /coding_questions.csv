@@ -1,0 +1,230 @@
+﻿topic,title,qsnlink
+Arrays & Strings,Two Sum,https://leetcode.com/problems/two-sum/
+Arrays & Strings,Three Sum,https://leetcode.com/problems/3sum/
+Arrays & Strings,Container With Most Water,https://leetcode.com/problems/container-with-most-water/
+Arrays & Strings,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/
+Arrays & Strings,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Arrays & Strings,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/
+Arrays & Strings,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/
+Arrays & Strings,Merge Intervals,https://leetcode.com/problems/merge-intervals/
+Arrays & Strings,Rotate Image/Matrix,https://leetcode.com/problems/rotate-image/
+Arrays & Strings,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/
+Arrays & Strings,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/
+Arrays & Strings,Maximum Subarray (Kadane’s Algorithm),https://leetcode.com/problems/maximum-subarray/
+Arrays & Strings,Find All Duplicates in an Array,https://leetcode.com/problems/find-all-duplicates-in-an-array/
+Arrays & Strings,Missing Number,https://leetcode.com/problems/missing-number/
+Arrays & Strings,First Missing Positive,https://leetcode.com/problems/first-missing-positive/
+Arrays & Strings,Next Permutation,https://leetcode.com/problems/next-permutation/
+Arrays & Strings,Jump Game I/II,https://leetcode.com/problems/jump-game/
+Arrays & Strings,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/
+Arrays & Strings,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/
+Arrays & Strings,Palindrome Substrings,https://leetcode.com/problems/palindromic-substrings/
+Arrays & Strings,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/
+Arrays & Strings,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/
+Arrays & Strings,Valid Anagram,https://leetcode.com/problems/valid-anagram/
+Arrays & Strings,Group Anagrams,https://leetcode.com/problems/group-anagrams/
+Arrays & Strings,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/
+Arrays & Strings,String Compression,https://leetcode.com/problems/string-compression/
+Arrays & Strings,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/
+Arrays & Strings,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion/
+Arrays & Strings,Integer to Roman/Roman to Integer,https://leetcode.com/problems/integer-to-roman/
+Arrays & Strings,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/
+Arrays & Strings,Implement strStr() (KMP Algorithm),https://leetcode.com/problems/implement-strstr/
+Arrays & Strings,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/
+Arrays & Strings,Shortest Unsorted Continuous Subarray,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+Arrays & Strings,Find Peak Element,https://leetcode.com/problems/find-peak-element/
+Arrays & Strings,Majority Element I/II,https://leetcode.com/problems/majority-element/
+Arrays & Strings,Task Scheduler,https://leetcode.com/problems/task-scheduler/
+Arrays & Strings,Minimum Swaps to Sort an Array,https://leetcode.com/problems/minimum-swaps-to-sort/
+Arrays & Strings,Count Inversions,https://leetcode.com/problems/count-inversions/
+Arrays & Strings,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/
+Arrays & Strings,Insert Interval,https://leetcode.com/problems/insert-interval/
+Linked Lists,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/
+Linked Lists,Detect Cycle in a Linked List,https://leetcode.com/problems/linked-list-cycle/
+Linked Lists,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/
+Linked Lists,Remove Nth Node From End,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Linked Lists,Add Two Numbers (Linked List Representation),https://leetcode.com/problems/add-two-numbers/
+Linked Lists,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/
+Linked Lists,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/
+Linked Lists,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/
+Linked Lists,Flatten a Multilevel Doubly Linked List,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+Linked Lists,LRU Cache Design (Linked List + HashMap),https://leetcode.com/problems/lru-cache/
+Linked Lists,Rotate List,https://leetcode.com/problems/rotate-list/
+Linked Lists,Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/
+Linked Lists,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/
+Linked Lists,Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/
+Linked Lists,Remove Duplicates from Sorted List I/II,https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+Linked Lists,Partition List,https://leetcode.com/problems/partition-list/
+Linked Lists,Reorder List,https://leetcode.com/problems/reorder-list/
+Linked Lists,Linked List Cycle II (Find Entry Point),https://leetcode.com/problems/linked-list-cycle-ii/
+Linked Lists,Split Linked List in Parts,https://leetcode.com/problems/split-linked-list-in-parts/
+Linked Lists,Design Browser History (Doubly Linked List),https://leetcode.com/problems/design-browser-history/
+Trees & Graphs,Validate BST,Link not available
+Trees & Graphs,Invert Binary Tree,Link not available
+Trees & Graphs,Binary Tree Level Order Traversal,Link not available
+Trees & Graphs,Serialize and Deserialize Binary Tree,Link not available
+Trees & Graphs,Lowest Common Ancestor (LCA),Link not available
+Trees & Graphs,Diameter of a Tree,Link not available
+Trees & Graphs,Symmetric Tree,Link not available
+Trees & Graphs,Construct BST from Preorder/Inorder,Link not available
+Trees & Graphs,Balanced Binary Tree,Link not available
+Trees & Graphs,Binary Tree Zigzag Level Order Traversal,Link not available
+Trees & Graphs,Path Sum I/II/III,Link not available
+Trees & Graphs,Flatten Binary Tree to Linked List,Link not available
+Trees & Graphs,Count Complete Tree Nodes,Link not available
+Trees & Graphs,Sum Root to Leaf Numbers,Link not available
+Trees & Graphs,Binary Tree Maximum Path Sum,Link not available
+Trees & Graphs,Convert Sorted List to BST,Link not available
+Trees & Graphs,Populating Next Right Pointers in Each Node,Link not available
+Trees & Graphs,Kth Smallest Element in BST,Link not available
+Trees & Graphs,Trie (Prefix Tree) Implementation,Link not available
+Trees & Graphs,Delete Node in a BST,Link not available
+Trees & Graphs,Vertical Order Traversal,Link not available
+Trees & Graphs,House Robber III,Link not available
+Trees & Graphs,Binary Search Tree Iterator,Link not available
+Trees & Graphs,All Nodes Distance K in Binary Tree,Link not available
+Trees & Graphs,Number of Islands (DFS/BFS),Link not available
+Trees & Graphs,Course Schedule I/II (Topological Sort),Link not available
+Trees & Graphs,Clone Graph,Link not available
+Trees & Graphs,Pacific Atlantic Water Flow,Link not available
+Trees & Graphs,Word Search I/II (Trie Optimization),Link not available
+Trees & Graphs,Alien Dictionary (Topological Sort),Link not available
+Trees & Graphs,Graph Valid Tree,Link not available
+Trees & Graphs,Redundant Connection,Link not available
+Trees & Graphs,Network Delay Time (Dijkstra’s Algorithm),Link not available
+Trees & Graphs,Cheapest Flights Within K Stops (Bellman-Ford),Link not available
+Trees & Graphs,Minimum Height Trees,Link not available
+Trees & Graphs,Evaluate Division (Union-Find/DFS),Link not available
+Trees & Graphs,Shortest Path in Binary Matrix,Link not available
+Trees & Graphs,Walls and Gates,Link not available
+Trees & Graphs,Surrounded Regions,Link not available
+Trees & Graphs,Snakes and Ladders,Link not available
+Trees & Graphs,Is Graph Bipartite?,Link not available
+Trees & Graphs,Find the Celebrity,Link not available
+Trees & Graphs,Critical Connections in a Network (Tarjan’s Algorithm),Link not available
+Trees & Graphs,Minimum Spanning Tree (Prim’s/Kruskal’s),Link not available
+Trees & Graphs,Flood Fill,Link not available
+Trees & Graphs,Max Area of Island,Link not available
+Trees & Graphs,Accounts Merge (Union-Find),Link not available
+Trees & Graphs,Reconstruct Itinerary (Eulerian Path),Link not available
+Dynamic Programming,Longest Increasing Subsequence,Link not available
+Dynamic Programming,Edit Distance,Link not available
+Dynamic Programming,Coin Change I/II,Link not available
+Dynamic Programming,0/1 Knapsack Problem,Link not available
+Dynamic Programming,Maximum Subarray (Kadane’s),Link not available
+Dynamic Programming,Unique Paths I/II,Link not available
+Dynamic Programming,Climbing Stairs,Link not available
+Dynamic Programming,House Robber I/II,Link not available
+Dynamic Programming,Decode Ways,Link not available
+Dynamic Programming,Word Break,Link not available
+Dynamic Programming,Partition Equal Subset Sum,Link not available
+Dynamic Programming,Longest Palindromic Subsequence,Link not available
+Dynamic Programming,Burst Balloons,Link not available
+Dynamic Programming,Regular Expression Matching,Link not available
+Dynamic Programming,Minimum Path Sum,Link not available
+Dynamic Programming,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/
+Dynamic Programming,Target Sum,Link not available
+Dynamic Programming,Interleaving String,Link not available
+Dynamic Programming,Best Time to Buy/Sell Stock (I/II/III/IV),Link not available
+Dynamic Programming,Palindrome Partitioning,Link not available
+Dynamic Programming,Count Palindromic Substrings,Link not available
+Dynamic Programming,Minimum Cost to Cut a Stick,Link not available
+Dynamic Programming,Longest Common Subsequence,Link not available
+Dynamic Programming,Wildcard Matching,Link not available
+Dynamic Programming,Dungeon Game,Link not available
+Dynamic Programming,Russian Doll Envelopes,Link not available
+Dynamic Programming,Minimum Falling Path Sum,Link not available
+Dynamic Programming,Super Egg Drop,Link not available
+Dynamic Programming,Maximum Length of Repeated Subarray,Link not available
+Dynamic Programming,Stone Game I/II/III,Link not available
+Recursion & Backtracking,N-Queens,Link not available
+Recursion & Backtracking,Generate Parentheses,Link not available
+Recursion & Backtracking,Sudoku Solver,Link not available
+Recursion & Backtracking,Permutations I/II,Link not available
+Recursion & Backtracking,Subsets I/II,Link not available
+Recursion & Backtracking,Combination Sum I/II/III,Link not available
+Recursion & Backtracking,Letter Combinations of a Phone Number,Link not available
+Recursion & Backtracking,Word Search (Backtracking),Link not available
+Recursion & Backtracking,Palindrome Partitioning,Link not available
+Recursion & Backtracking,Restore IP Addresses,Link not available
+Recursion & Backtracking,Beautiful Arrangement,Link not available
+Recursion & Backtracking,Word Squares,Link not available
+Recursion & Backtracking,Gray Code,Link not available
+Recursion & Backtracking,Factor Combinations,Link not available
+Recursion & Backtracking,Strobogrammatic Number II,Link not available
+Recursion & Backtracking,Binary Watch,Link not available
+Recursion & Backtracking,Partition to K Equal Sum Subsets,Link not available
+Recursion & Backtracking,Matchsticks to Square,Link not available
+Recursion & Backtracking,Tiling a Rectangle with the Fewest Squares,Link not available
+Recursion & Backtracking,Robot Room Cleaner,Link not available
+Sorting & Searching,Merge Sorted Array,Link not available
+Sorting & Searching,Search in Rotated Sorted Array I/II,Link not available
+Sorting & Searching,Find First/Last Position of Element in Sorted Array,Link not available
+Sorting & Searching,Kth Largest Element in an Array,Link not available
+Sorting & Searching,Median of Two Sorted Arrays,Link not available
+Sorting & Searching,Find Minimum in Rotated Sorted Array,Link not available
+Sorting & Searching,Count of Range Sum,Link not available
+Sorting & Searching,H-Index,Link not available
+Sorting & Searching,Intersection of Two Arrays,Link not available
+Sorting & Searching,Sort Colors,Link not available
+Sorting & Searching,Peak Index in a Mountain Array,Link not available
+Sorting & Searching,Find K Closest Elements,Link not available
+Sorting & Searching,Heaters,Link not available
+Sorting & Searching,Find the Duplicate Number,Link not available
+Sorting & Searching,Maximum Distance in Arrays,Link not available
+Sorting & Searching,Shortest Unsorted Continuous Subarray,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+Sorting & Searching,Time Based Key-Value Store,Link not available
+Sorting & Searching,Random Pick with Weight,Link not available
+Sorting & Searching,Find Right Interval,Link not available
+Sorting & Searching,Count of Smaller Numbers After Self,Link not available
+Heap & Priority Queue,Merge K Sorted Lists,Link not available
+Heap & Priority Queue,Kth Largest Element in a Stream,Link not available
+Heap & Priority Queue,Find Median from Data Stream,Link not available
+Heap & Priority Queue,Top K Frequent Elements,Link not available
+Heap & Priority Queue,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/
+Heap & Priority Queue,Kth Smallest Element in a Sorted Matrix,Link not available
+Heap & Priority Queue,Reorganize String,Link not available
+Heap & Priority Queue,Task Scheduler,https://leetcode.com/problems/task-scheduler/
+Heap & Priority Queue,Minimum Cost to Connect Sticks,Link not available
+Heap & Priority Queue,Furthest Building You Can Reach,Link not available
+Heap & Priority Queue,Maximum Performance of a Team,Link not available
+Heap & Priority Queue,K Closest Points to Origin,Link not available
+Heap & Priority Queue,Sort Characters By Frequency,Link not available
+Heap & Priority Queue,Design Twitter (Feeds with Heap),Link not available
+Heap & Priority Queue,The Skyline Problem,Link not available
+Hash Tables & Hashing,Two Sum,https://leetcode.com/problems/two-sum/
+Hash Tables & Hashing,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Hash Tables & Hashing,Group Anagrams,https://leetcode.com/problems/group-anagrams/
+Hash Tables & Hashing,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/
+Hash Tables & Hashing,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/
+Hash Tables & Hashing,First Unique Character in a String,Link not available
+Hash Tables & Hashing,Insert Delete GetRandom O(1),Link not available
+Hash Tables & Hashing,Design HashSet/HashMap,Link not available
+Hash Tables & Hashing,Count Primes (Sieve of Eratosthenes),Link not available
+Hash Tables & Hashing,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/
+Hash Tables & Hashing,Happy Number,Link not available
+Hash Tables & Hashing,Contains Duplicate I/II/III,Link not available
+Hash Tables & Hashing,Maximum Frequency Stack,Link not available
+Hash Tables & Hashing,Jewels and Stones,Link not available
+Hash Tables & Hashing,Bulls and Cows,Link not available
+Miscellaneous & Advanced,Implement LRU Cache,Link not available
+Miscellaneous & Advanced,Design Circular Queue,Link not available
+Miscellaneous & Advanced,Implement Trie (Prefix Tree),Link not available
+Miscellaneous & Advanced,LFU Cache Design,Link not available
+Miscellaneous & Advanced,Min Stack,Link not available
+Miscellaneous & Advanced,Largest Rectangle in Histogram,Link not available
+Miscellaneous & Advanced,Trapping Rain Water II,Link not available
+Miscellaneous & Advanced,Basic Calculator I/II/III,Link not available
+Miscellaneous & Advanced,Reverse Integer,Link not available
+Miscellaneous & Advanced,"Pow(x, n)",Link not available
+Miscellaneous & Advanced,Sqrt(x),Link not available
+Miscellaneous & Advanced,Rotate Array,Link not available
+Miscellaneous & Advanced,Single Number I/II/III,Link not available
+Miscellaneous & Advanced,Number of 1 Bits,Link not available
+Miscellaneous & Advanced,Missing Number,https://leetcode.com/problems/missing-number/
+Miscellaneous & Advanced,Counting Bits,Link not available
+Miscellaneous & Advanced,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/
+Miscellaneous & Advanced,Game of Life,Link not available
+Miscellaneous & Advanced,Find the Celebrity,Link not available
+Miscellaneous & Advanced,Design Snake Game,Link not available
+
