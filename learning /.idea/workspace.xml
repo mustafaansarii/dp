@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48272f03-ce4d-4577-99c4-27703de6e22e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Questions/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/15. 3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/17. Letter Combinations of a Phone Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/2. Add Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/21. Merge Two Sorted Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/2161. Partition Array According to Given Pivot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/238. Product of Array Except Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/2460. Apply Operations to an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/2570. Merge Two 2D Arrays by Summing Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/283. Move Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/3468. Find the Number of Copy Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/3469. Find Minimum Cost to Remove Array Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/49. Group Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/5. Longest Palindromic Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/54. Spiral Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/73. Set Matrix Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/88. Merge Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/Decode the string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/Implement Pow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/K Sized Subarray Maximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/Merge Overlapping Intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/Repeat and Missing Number Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/max rectangle score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/singlyLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questions/who are online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfresume.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2tqb2kzLeewKigRBYonWRxC9hYC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/mustafa/Learning/dp/learning "
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48272f03-ce4d-4577-99c4-27703de6e22e" name="Changes" comment="" />
+      <created>1741082346345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741082346345</updated>
+    </task>
+    <servers />
+  </component>
+</project>
