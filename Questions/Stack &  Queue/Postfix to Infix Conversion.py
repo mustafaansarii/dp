@@ -1,4 +1,3 @@
-
 class Solution:
     def postToInfix(self, postfix):
         # Code here
@@ -21,7 +20,7 @@ class Solution:
                     op1 = stack.pop()
                     stack.append("(" + op1 + postfix[i] + op2 + ")")
                 elif len(stack)==1:
-                    stack.append("(" + stack.pop() + postfix[i] +")")
+                    stack.append("(" + stack.pop() + postfix[i] + ")")
             if i==n-1:
                 ans+=stack[0]
         return  ans

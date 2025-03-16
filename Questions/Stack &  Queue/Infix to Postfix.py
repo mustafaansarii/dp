@@ -1,5 +1,4 @@
 class Solution:
-    # Function to convert an infix expression to a postfix expression.
     def InfixtoPostfix(self, s):
         priority={'^':3,'*':2,'/':2,'+':1,'-':1,'(':0}
         stack=[]
@@ -25,8 +24,6 @@ class Solution:
                 while len(stack)!=0:
                     ans+=stack.pop()
         return ans
-
-
 
 
 
