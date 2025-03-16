@@ -6,7 +6,6 @@ def quickselect(arr, k):
 def select(arr, left, right, k):
     if left == right:
         return arr[left]
-
     pivot_index = partition(arr, left, right)
 
     if k == pivot_index:
